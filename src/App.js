@@ -36,8 +36,7 @@ const App = () =>{
                 <div className="footer" >
                     <Typography.Title level={5} style={{color:'white', textAlign:'center'}}>
                         CryptoLinx<br/>
-                        © All Rights Reserved<br/>
-                        Created by: Nivesh Rohankar
+                        © Nivesh Rohankar
                     </Typography.Title>
                     <Space>
                         <Link to="/">Home</Link>

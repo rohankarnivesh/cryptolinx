@@ -1,3 +1,6 @@
+Try to learn while coding the application don't just copy paste the thing :)
+This is the only way you can grow and developed your skills. - Do follow @codewithnivesh on instagram.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
